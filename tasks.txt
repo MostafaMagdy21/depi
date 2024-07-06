@@ -1,0 +1,21 @@
+1- 7-Javascript-Basics-Tasks-2
+2- S08 - task JavascriptBasicsExam
+3- S09 - task JsSampleExam		=>done
+4- 10-EvaluationExam1
+5- 10-PreAngularQuiz-1
+6- front end exam
+- compleating task 1			 => done
+- building task 2 news app
+- seaching tasks
+	* install || cdn
+	* import || link
+	* js is statefull || stateless 
+
+oop task
+news app
+task-1
+last task
+search
+
+=> 3 from 6 tasks + fetch task + news app + compleating session task + search + nti dom task
+=> 3 from 6 tasks + compleate nti dom task
