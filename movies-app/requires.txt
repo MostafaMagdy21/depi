@@ -1,0 +1,14 @@
+1- fetch from api ============================ done
+2- handel routing ============================ 
+5- handel send message ======================= done
+4- handel pagination =========================
+3- handel search =============================
+6- handel class baised components ============ 
+7- handle alert message ====================== 
+url= "https://api.themoviedb.org/3/discover/movie?api_key=e2dac0a02e53c51ad11b312ca2bfde7c&include_adult=false&include_video=false&language=ar&page=1"
+
+func to get num of pages
+func to route between pages by 
+    on click btn {
+        excuting getAllMovies(e.target.value || textContent === num of the page i want)
+    }

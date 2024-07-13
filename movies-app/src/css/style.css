@@ -1,0 +1,132 @@
+/* 
+background-image: linear-gradient(310deg, #7928ca, #ff0080);
+ */
+
+/* header style */
+.bg-style {
+	/* background-image: linear-gradient(310deg, #7928ca, #ff0080); */
+	background-image: linear-gradient(188deg, #0d111d, #d7badf);
+	padding: 0rem 2rem;
+}
+
+@media (max-width: 992px) {
+	.header-nav {
+		border-radius: 10px !important;
+	}
+}
+
+.navbar-nav li:hover {
+	border-bottom: 5px solid #7928ca;
+}
+
+.search-btn {
+	border-radius: 0rem 0.25rem 0.25rem 0rem;
+	border-width: 0px 0px 0px 0px;
+	border-color: #dee2e6;
+	margin-left: -41px;
+}
+
+.search-btn:hover {
+	border-radius: 0rem 0.25rem 0.25rem 0rem;
+	border-width: 1px 1px 1px 0px;
+	border-color: #dee2e6;
+	background-color: #7928ca;
+	color: #fff;
+}
+
+/* card style */
+.movie-card {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+@media (max-width: 575px) {
+	.movie-section {
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+}
+.card-image {
+	width: 100%;
+	border-radius: 15px;
+}
+.card-info {
+	display: none;
+}
+.card-btn {
+	background-color: #7928ca;
+	border-color: #7928ca;
+}
+.card-btn:hover {
+	background-color: #611fa3;
+	border-color: #611fa3;
+}
+.card-btn:active {
+	background-color: #611fa3;
+	border-color: #611fa3;
+}
+.movie-card:hover .card-image {
+	transition: 0.3s;
+	filter: brightness(0.5);
+}
+.movie-card:hover .card-info {
+	transition: 0.3s;
+	color: #fff;
+	display: flex;
+	width: 80%;
+	flex-direction: column;
+	line-height: 3rem;
+}
+/* single movie page */
+.single-movie {
+	min-height: 80vh;
+}
+
+.movie-info {
+	border-radius: 15px;
+}
+
+.img img {
+	width: 100%;
+	border-radius: 15px;
+}
+
+.movie-info {
+	box-shadow: 0px 8px 30px 3px #ddd;
+}
+
+/* contact us page styling */
+.contact-us {
+	min-height: 80vh;
+}
+.msg-form {
+	box-shadow: 0px 8px 30px 3px #ddd;
+	border-radius: 15px;
+}
+
+textarea {
+	resize: none;
+}
+
+/* scroll bar styling */
+/* width */
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #d3ced4;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #b29bbb;
+	border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #877792;
+}
