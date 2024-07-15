@@ -155,3 +155,39 @@
 // let obj5 = new Account("2", "mohamed", 0);
 // obj4.transferTo(obj5, 400);
 // console.log(obj5.getBalance());
+
+// class Date
+// class DateClass {
+// 	private day: number;
+// 	private month: number;
+// 	private year: number;
+
+// 	constructor(day: number, month: number, year: number) {
+// 		this.day = day;
+// 		this.month = month;
+// 		this.year = year;
+// 	}
+
+// 	getDay() {
+// 		return this.day;
+// 	}
+// 	getMonth() {
+// 		return this.month;
+// 	}
+// 	getYear() {
+// 		return this.year;
+// 	}
+// 	setDay(day: number) {
+// 		this.day = day;
+// 	}
+// 	setMonth(month: number) {
+// 		this.month = month;
+// 	}
+// 	setYear(year: number) {
+// 		this.year = year;
+// 	}
+// }
+
+// let date = new DateClass(21, 2, 1996);
+// end task one
+// ---------------------------------------------
