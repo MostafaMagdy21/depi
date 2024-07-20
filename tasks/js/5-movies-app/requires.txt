@@ -1,14 +1,12 @@
 1- fetch from api ============================ done
-2- handel routing ============================ 
+2- handel routing ============================ done
 5- handel send message ======================= done
-4- handel pagination =========================
-3- handel search =============================
-6- handel class baised components ============ 
-7- handle alert message ====================== 
+4- handel pagination ========================= done
+3- handel search ============================= num 3
+6- handel class baised components ============ before oop session studying
+7- handle alert message ====================== before crud oop app studying
 url= "https://api.themoviedb.org/3/discover/movie?api_key=e2dac0a02e53c51ad11b312ca2bfde7c&include_adult=false&include_video=false&language=ar&page=1"
 
-func to get num of pages
-func to route between pages by 
-    on click btn {
-        excuting getAllMovies(e.target.value || textContent === num of the page i want)
-    }
+الجمعه 26 امتحان هيتسلم الخميس 31
+السبت 27 اخر نص ساعه interview qst فقط (coding, discossion, )
+هيكون اربع نماذج واحد ليك و الباقي تاسكات
