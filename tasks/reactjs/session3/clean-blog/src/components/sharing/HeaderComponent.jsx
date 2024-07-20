@@ -28,23 +28,27 @@ export const HeaderComponent = () => {
 								<Link
 									className="nav-link text-light"
 									aria-current="page"
-									to="#"
+									to="/"
 								>
 									Home
 								</Link>
 							</li>
 							<li className="nav-item">
-								<Link className="nav-link text-light" to="#">
+								<Link className="nav-link text-light" to="/about">
 									About
 								</Link>
 							</li>
 							<li className="nav-item">
-								<Link className="nav-link text-light" to="#">
+								<Link
+									className="nav-link text-light"
+									to="/
+								sample-posts"
+								>
 									Single-Blog
 								</Link>
 							</li>
 							<li className="nav-item">
-								<Link className="nav-link text-light" to="#">
+								<Link className="nav-link text-light" to="/contact">
 									Contact
 								</Link>
 							</li>

@@ -36,6 +36,7 @@ a.navbar-brand {
 	height: 85vh;
 	overflow: hidden;
 	z-index: -1;
+	width: 100%;
 }
 
 img {
@@ -61,3 +62,8 @@ img {
 .blog-item:hover {
 	color: #0085a1;
 }
+
+/* contact */
+/* .contact-img {
+	height: 100% !important;
+} */
